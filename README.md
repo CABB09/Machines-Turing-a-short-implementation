@@ -93,3 +93,6 @@ For the input tape 0 0 0 1 1 0 1, the machine processes the symbols and moves th
 
 ## Conclusion
 The project succeeded in generating correct machine instructions for basic Turing machines and simulating tape operations. However, the project encountered challenges with more complex machines like unPlus1 and xnTimes2, where certain transitions produced incorrect results. Despite these issues, the machine worked correctly for simpler configurations.
+
+## References
+Penrose, R. (1999). The Emperor’s New Mind. Oxford University Press, UK.
